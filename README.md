@@ -12,6 +12,7 @@ Split guava into small modules
 
 - guava-base : core classes (Predicate, Optional...) - size ~100Kb
 - guava-primitives : primitives classes (Ints, Longs...) - size ~76Kb
+- guava-math : math classes - size ~25Kb
 
 ... more to come
 

@@ -1,0 +1,9 @@
+apply plugin: 'java'
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile project(':guava-base')
+    compile project(':guava-primitives')
+
+    testCompile 'junit:junit:4.12'
+}
