@@ -13,7 +13,7 @@ Split guava into small modules
 - guava-base : core classes (Predicate, Optional...) - size ~100Kb
 - guava-primitives : primitives classes (Ints, Longs...) - size ~76Kb
 - guava-math : math classes - size ~25Kb
-- guava-collect-base : base classes for collect (Collections2, Lists, Iterables...) - size ~25Kb
+- guava-collect-base : base classes for collect (Collections2, Lists, Iterables...) - size ~75Kb
    *Note that Immutable-related classes will appear in another package*
 
 ... more to come
