@@ -1,1 +1,1 @@
-include ':guava-base', ':guava-primitives', ':guava-math'
+include ':guava-base', ':guava-primitives', ':guava-math', 'guava-collect-base'
